@@ -1,0 +1,14 @@
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\bin\Debug\net8.0\gerenciamenteTarefa.exe
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\bin\Debug\net8.0\gerenciamenteTarefa.deps.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\bin\Debug\net8.0\gerenciamenteTarefa.runtimeconfig.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\bin\Debug\net8.0\gerenciamenteTarefa.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\bin\Debug\net8.0\gerenciamenteTarefa.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\obj\Debug\net8.0\gerenciamenteTarefa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\obj\Debug\net8.0\gerenciamenteTarefa.AssemblyInfoInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\obj\Debug\net8.0\gerenciamenteTarefa.AssemblyInfo.cs
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\obj\Debug\net8.0\gerenciamenteTarefa.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\obj\Debug\net8.0\gerenciamenteTarefa.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\obj\Debug\net8.0\refint\gerenciamenteTarefa.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\obj\Debug\net8.0\gerenciamenteTarefa.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\obj\Debug\net8.0\gerenciamenteTarefa.genruntimeconfig.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\gerenciamenteTarefa\obj\Debug\net8.0\ref\gerenciamenteTarefa.dll
